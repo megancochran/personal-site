@@ -1,5 +1,5 @@
 export const fonts = {
-  body: "'Plus Jakarta Sans', sans-serif",
-  heading: "'Plus Jakarta Sans', sans-serif",
+  body: "'Sunflower', sans-serif",
+  heading: "'Sunflower', sans-serif",
   mono: "Menlo, monospace",
 };
